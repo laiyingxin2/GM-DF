@@ -1,2 +1,2 @@
 # GM-DF
-code will be release when the paper accept.
+code will be released when the paper accept.
